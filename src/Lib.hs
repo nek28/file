@@ -23,5 +23,5 @@ printSummary (cc, wc, lc) =
                      , " lines"
                      , "\n" ]
 
-cw :: Text -> Text
-cw = printSummary . wordCount
+wc :: Text -> Text
+wc = printSummary . wordCount
