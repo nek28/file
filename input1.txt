@@ -1,0 +1,2 @@
+this is some document for which
+we will print some statistics

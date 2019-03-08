@@ -1,0 +1,2 @@
+input1.txt: 61 chars, 11 words, 2 lines
+input2.txt: 43 chars, 8 words, 4 lines
